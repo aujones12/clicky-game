@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.dogshopnw.com/wp-content/uploads/2015/01/dog-running-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://www.boulderpuppies.org/images/career-changes/hijklmnop/primrose/primrose-thumb-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2017/09/p10-ito-guide-dogs-s-20170924-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://www.windowsmode.com/wp-content/uploads/2015/08/2-Cute-Dogs-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://dogbreedersguide.com/wp-content/uploads/2014/11/Beagle-cute-dog-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "http://lipulse.com/wp-content/uploads/2015/09/Cattle-Dog-Mix-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.fetchpetcare.com/wp-content/uploads/2018/07/Pug-Header-1-200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "http://www.thepetowners.com/images/dog_200x200.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.wtamu.edu/~cbaird/sq/images/dog2.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQbkZ-CRWP5tH9rm0bLc3VVWZzQpHMpZeMXOZlTm_Y8H5ZWxk",
+    "clicked": false
+  }
+]
+
+
+
